@@ -1,0 +1,6 @@
+librosa
+matplotlib
+IPython
+numpy
+pandas
+wave
